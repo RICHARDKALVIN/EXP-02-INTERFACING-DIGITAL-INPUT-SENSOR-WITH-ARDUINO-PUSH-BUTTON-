@@ -45,10 +45,13 @@ PROCEDURE
 
 CIRCUIT DIAGRAM 
 
-
+##BEFORE SIMULATION
 ![Annotation 2023-04-24 175337](https://user-images.githubusercontent.com/119404920/233996600-981b51c1-032a-4cff-822b-bc43a608560d.png)
 
 
+##AFTER SIMULATION
+
+![Annotation 2023-04-24 180924](https://user-images.githubusercontent.com/119404920/233999797-631fd6f9-6d27-439f-b682-2dc5373a443d.jpg)
 
 
 
@@ -85,8 +88,5 @@ void loop()
 
 
 
-Output of the simulation :
-
-![Annotation 2023-04-24 175433     222](https://user-images.githubusercontent.com/119404920/233996878-92d01229-6332-4233-b3b6-03c91c973740.png)
 
 
