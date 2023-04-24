@@ -59,7 +59,8 @@ FIGURE -03
 
 PROGRAM 
 
-```int buttonstate = 0;
+```
+int buttonstate = 0;
 
 void setup()
 {
@@ -79,7 +80,8 @@ void loop()
   
   delay(15); //
   
-}```
+}
+```
  
  
  
